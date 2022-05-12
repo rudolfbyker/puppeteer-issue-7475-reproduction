@@ -1,0 +1,12 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "main": "serve.ts",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "serve": "node serve.js"
+  }
+}
